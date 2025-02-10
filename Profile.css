@@ -108,7 +108,7 @@ b {
 }
 
 .navbar {
-  background-color: var(--color-dark);
+  background-color: var(--color-background);
   border-radius: var(--border-radius-1);
   box-shadow: var(--box-shadow);
   padding: 10px;
